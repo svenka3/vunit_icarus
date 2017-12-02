@@ -6,7 +6,9 @@ Code is moved from class based to module based.
 To run a tiny example, 
 
 cd ivlog_vunit
+
 cd run_dir
+
 make
 
 Sample output
